@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	int num;
+	cin >> num;										// Reading input from STDIN
+	cout << num*2 << endl;		// Writing output to STDOUT
+    string s;
+	cin>>s;
+	cout<<s;
+return 0;
